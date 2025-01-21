@@ -49,7 +49,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | RainbowWithGlitter    	|                                        	|
 | RampRGB               	| [![](https://img.youtube.com/vi/fwO2FN8sbOQ/0.jpg)](https://youtube.com/shorts/fwO2FN8sbOQ?feature=share) |
 | Rstcurv               	| [![](https://img.youtube.com/vi/_P6XzHIV-NA/0.jpg)](https://www.youtube.com/watch?v=_P6XzHIV-NA) |
-| Shikon22              	| [![](https://img.youtube.com/vi/C9LezPTnGYY/0.jpg)](https://youtube.com/shorts/C9LezPTnGYY?feature=share) |
+| Shikon22              	| [![](https://img.youtube.com/vi/GDXC7UqFyWQ/0.jpg)](https://youtube.com/shorts/GDXC7UqFyWQ?feature=share) |
 | Shikon23              	| [![](https://img.youtube.com/vi/3hxHBaMBJYs/0.jpg)](https://youtube.com/shorts/3hxHBaMBJYs?feature=share) |
 | ShowSolidColor        	|                                        	|
 | Sinelon               	|                                        	|
