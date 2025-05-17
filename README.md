@@ -20,7 +20,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	| [![](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
 | FireBarbiePink         	| [![](https://img.youtube.com/vi/8T51nAfzwE4/0.jpg)](https://www.youtube.com/watch?v=8T51nAfzwE4) |
-| FireBlue              	| [![](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
+| FireBlue              	| [![](https://img.youtube.com/vi/ALZilezuZhE/0.jpg)](https://youtu.be/ALZilezuZhE) |
 | FireChemical          	| [![](https://img.youtube.com/vi/0L9wwmpknCE/0.jpg)](https://www.youtube.com/watch?v=0L9wwmpknCE) |
 | FireElectricBlue      	| [![](https://img.youtube.com/vi/nL_Dz0n3Nng/0.jpg)](https://www.youtube.com/watch?v=nL_Dz0n3Nng) |
 | Fireflies             	|                                        	|
