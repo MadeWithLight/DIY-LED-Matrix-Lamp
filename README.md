@@ -6,19 +6,19 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Analogous             	| [![](https://img.youtube.com/vi/GkM_yxgYv2s/0.jpg)](https://youtu.be/GkM_yxgYv2s) |
 | Aurora                	| [![](https://img.youtube.com/vi/GK8URnTC9vc/0.jpg)](https://youtu.be/GK8URnTC9vc) |
 | BlackAndWhite         	|                                        	|
-| BPM                     | [![](https://img.youtube.com/vi/wpABKEyWJ7s/0.jpg)](https://www.youtube.com/watch?v=wpABKEyWJ7s) |
-| Calbayo15             	| [![](https://img.youtube.com/vi/eobqzGgs6K4/0.jpg)](https://youtube.com/shorts/eobqzGgs6K4?feature=share) |
-| Cloud                 	| [![](https://img.youtube.com/vi/uMpSQnTU4QM/0.jpg)](https://www.youtube.com/watch?v=uMpSQnTU4QM) |
+| BPM                     | [![](https://img.youtube.com/vi/IH-Q_5ymRpk/0.jpg)](https://youtu.be/IH-Q_5ymRpk) |
+| Calbayo             	  | [![](https://img.youtube.com/vi/2_QlBTKidro/0.jpg)](https://youtu.be/2_QlBTKidro) |
+| Cloud                 	| [![](https://img.youtube.com/vi/ubzFZ8tgLI4/0.jpg)](https://youtu.be/ubzFZ8tgLI4) |
 | CloudTwinkles           | [![](https://img.youtube.com/vi/6xIglZ9MYiI/0.jpg)](https://www.youtube.com/watch?v=6xIglZ9MYiI) |
 | ColorCube             	| [![](https://img.youtube.com/vi/w2WDJhO8YmA/0.jpg)](https://youtube.com/shorts/w2WDJhO8YmA?feature=share) |
 | ColorWaves            	| [![](https://img.youtube.com/vi/lAgImssP0hc/0.jpg)](https://www.youtube.com/watch?v=lAgImssP0hc) |
 | Confetti                | [![](https://img.youtube.com/vi/dexPh66PtdY/0.jpg)](https://youtube.com/shorts/dexPh66PtdY?feature=share) |
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
-| DeepSea               	| [![](https://img.youtube.com/vi/mDnaWVjDDiY/0.jpg)](https://www.youtube.com/watch?v=mDnaWVjDDiY) |
+| DeepSea               	| [![](https://img.youtube.com/vi/nkcVD1npClE/0.jpg)](https://youtu.be/nkcVD1npClE) |
 | Fire2012Rainbow1      	| [![](https://img.youtube.com/vi/2Owei0R9Go4/0.jpg)](https://www.youtube.com/watch?v=2Owei0R9Go4) |
 | Fire2012WithPalette   	|                                        	|
-| FireAqua              	| [![](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
+| FireAqua              	| [![](https://img.youtube.com/vi/2UL9ZoMGzog/0.jpg)](https://youtu.be/2UL9ZoMGzog) |
 | FireBarbiePink         	| [![](https://img.youtube.com/vi/8T51nAfzwE4/0.jpg)](https://www.youtube.com/watch?v=8T51nAfzwE4) |
 | FireBlue              	| [![](https://img.youtube.com/vi/ALZilezuZhE/0.jpg)](https://youtu.be/ALZilezuZhE) |
 | FireChemical          	| [![](https://img.youtube.com/vi/0L9wwmpknCE/0.jpg)](https://www.youtube.com/watch?v=0L9wwmpknCE) |
