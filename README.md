@@ -31,7 +31,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireOrange            	| [![](https://img.youtube.com/vi/Bq_BhgwoGyM/0.jpg)](https://www.youtube.com/watch?v=Bq_BhgwoGyM) |
 | FirePurple            	| [![](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://www.youtube.com/watch?v=7VXlMrUlCOM) |
 | FireRed               	| [![](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
-| FireYellow              | [![](https://img.youtube.com/vi/-EyRCcPv-1g/0.jpg)](https://www.youtube.com/watch?v=-EyRCcPv-1g) |
+| FireYellow              | [![](https://img.youtube.com/vi/6eIliuVcl6E/0.jpg)](https://youtu.be/6eIliuVcl6E) |
 | FireWhite             	| [![](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
@@ -50,8 +50,8 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | RainbowWithGlitter    	|                                        	|
 | RampRGB               	| [![](https://img.youtube.com/vi/fwO2FN8sbOQ/0.jpg)](https://youtube.com/shorts/fwO2FN8sbOQ?feature=share) |
 | Rstcurv               	| [![](https://img.youtube.com/vi/_P6XzHIV-NA/0.jpg)](https://www.youtube.com/watch?v=_P6XzHIV-NA) |
-| Shikon22              	| [![](https://img.youtube.com/vi/GDXC7UqFyWQ/0.jpg)](https://youtube.com/shorts/GDXC7UqFyWQ?feature=share) |
-| Shikon23              	| [![](https://img.youtube.com/vi/3hxHBaMBJYs/0.jpg)](https://youtube.com/shorts/3hxHBaMBJYs?feature=share) |
+| Shikon22              	| [![](https://img.youtube.com/vi/SxEsgq4D8ok/0.jpg)](https://youtu.be/SxEsgq4D8ok) |
+| Shikon23              	| [![](https://img.youtube.com/vi/LAta2GwrvJk/0.jpg)](https://youtu.be/LAta2GwrvJk) |
 | ShowSolidColor        	|                                        	|
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
