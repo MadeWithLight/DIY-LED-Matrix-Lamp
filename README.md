@@ -46,7 +46,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Pride                 	| [![](https://img.youtube.com/vi/QllpjAun5tk/0.jpg)](https://youtube.com/shorts/QllpjAun5tk?feature=share) |
 | Pulse                 	|                                        	|
 | Rainbow               	| [![](https://img.youtube.com/vi/NdaFswDQIU4/0.jpg)](https://youtu.be/NdaFswDQIU4) |
-| RainbowTwinkles       	| [![](https://img.youtube.com/vi/1jY9cqHB35g/0.jpg)](https://youtu.be/1jY9cqHB35g) |
+| RainbowTwinkles       	| [![](https://img.youtube.com/vi/x8yK0GT0e4U/0.jpg)](https://youtu.be/x8yK0GT0e4U) |
 | RainbowWithGlitter    	|                                        	|
 | RampRGB               	| [![](https://img.youtube.com/vi/fwO2FN8sbOQ/0.jpg)](https://youtube.com/shorts/fwO2FN8sbOQ?feature=share) |
 | Rstcurv               	| [![](https://img.youtube.com/vi/_P6XzHIV-NA/0.jpg)](https://www.youtube.com/watch?v=_P6XzHIV-NA) |
