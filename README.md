@@ -10,9 +10,9 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | BPM                     | [![](https://img.youtube.com/vi/IH-Q_5ymRpk/0.jpg)](https://youtu.be/IH-Q_5ymRpk) |
 | Calbayo             	  | [![](https://img.youtube.com/vi/2_QlBTKidro/0.jpg)](https://youtu.be/2_QlBTKidro) |
 | Cloud                 	| [![](https://img.youtube.com/vi/ubzFZ8tgLI4/0.jpg)](https://youtu.be/ubzFZ8tgLI4) |
-| CloudTwinkles           | [![](https://img.youtube.com/vi/6xIglZ9MYiI/0.jpg)](https://www.youtube.com/watch?v=6xIglZ9MYiI) |
+| CloudTwinkles           | [![](https://img.youtube.com/vi/x8yK0GT0e4U/0.jpg)](https://youtu.be/x8yK0GT0e4U) |
 | ColorCube             	| [![](https://img.youtube.com/vi/w2WDJhO8YmA/0.jpg)](https://youtube.com/shorts/w2WDJhO8YmA?feature=share) |
-| ColorWaves            	| [![](https://img.youtube.com/vi/lAgImssP0hc/0.jpg)](https://www.youtube.com/watch?v=lAgImssP0hc) |
+| ColorWaves            	| [![](https://img.youtube.com/vi/wLJo49-o8fk/0.jpg)](https://youtu.be/wLJo49-o8fk) |
 | Confetti                | [![](https://img.youtube.com/vi/dexPh66PtdY/0.jpg)](https://youtube.com/shorts/dexPh66PtdY?feature=share) |
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
