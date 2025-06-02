@@ -17,8 +17,8 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
 | DeepSea               	| [![](https://img.youtube.com/vi/nkcVD1npClE/0.jpg)](https://youtu.be/nkcVD1npClE) |
-| Fire2012Rainbow1      	| [![](https://img.youtube.com/vi/2Owei0R9Go4/0.jpg)](https://www.youtube.com/watch?v=2Owei0R9Go4) |
-| Fire2012WithPalette   	|                                        	|
+| Fire2012Rainbow1      	| [![](https://img.youtube.com/vi/1LW-jZnCczo/0.jpg)](https://youtu.be/1LW-jZnCczo) |
+| Fire2012WithPalette   	| [![](https://img.youtube.com/vi/T8J_DJUly88/0.jpg)](https://youtu.be/T8J_DJUly88) |
 | FireAqua              	| [![](https://img.youtube.com/vi/2UL9ZoMGzog/0.jpg)](https://youtu.be/2UL9ZoMGzog) |
 | FireBarbiePink         	| [![](https://img.youtube.com/vi/lAHkKbvl2BE/0.jpg)](https://youtu.be/lAHkKbvl2BE) |
 | FireBlue              	| [![](https://img.youtube.com/vi/ALZilezuZhE/0.jpg)](https://youtu.be/ALZilezuZhE) |
