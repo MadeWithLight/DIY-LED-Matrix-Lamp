@@ -32,9 +32,9 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FirePurple            	| [![](https://img.youtube.com/vi/WPIe7rbtJLo/0.jpg)](https://youtu.be/WPIe7rbtJLo) |
 | FireRed               	| [![](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
 | FireYellow              | [![](https://img.youtube.com/vi/6eIliuVcl6E/0.jpg)](https://youtu.be/6eIliuVcl6E) |
-| FireWhite             	| [![](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
+| FireWhite             	| [![](https://img.youtube.com/vi/zvX-wUav1Z0/0.jpg)](https://youtu.be/zvX-wUav1Z0) |
 | Forest                	|                                        	|
-| HueCycle              	|                                        	|
+| HueCycle              	| [![](https://img.youtube.com/vi/fpcT6qMNR3Y/0.jpg)](https://youtu.be/fpcT6qMNR3Y) |
 | IncandescentTwinkles    | [![](https://img.youtube.com/vi/yPH6Us_nF-U/0.jpg)](https://youtube.com/shorts/yPH6Us_nF-U?feature=share) |
 | Juggle                	| [![](https://img.youtube.com/vi/qANoQjhLGoI/0.jpg)](https://youtu.be/qANoQjhLGoI) |
 | Lava                  	| [![](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://www.youtube.com/watch?v=ReStbAOoWyM) |
