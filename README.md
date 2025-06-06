@@ -35,9 +35,9 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireWhite             	| [![](https://img.youtube.com/vi/zvX-wUav1Z0/0.jpg)](https://youtu.be/zvX-wUav1Z0) |
 | Forest                	|                                        	|
 | HueCycle              	| [![](https://img.youtube.com/vi/fpcT6qMNR3Y/0.jpg)](https://youtu.be/fpcT6qMNR3Y) |
-| IncandescentTwinkles    | [![](https://img.youtube.com/vi/yPH6Us_nF-U/0.jpg)](https://youtube.com/shorts/yPH6Us_nF-U?feature=share) |
-| Juggle                	| [![](https://img.youtube.com/vi/qANoQjhLGoI/0.jpg)](https://youtu.be/qANoQjhLGoI) |
-| Lava                  	| [![](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://www.youtube.com/watch?v=ReStbAOoWyM) |
+| IncandescentTwinkles    | [![](https://img.youtube.com/vi/uALuWuJJ1cQ/0.jpg)](https://youtu.be/uALuWuJJ1cQ) |
+| Juggle                	| [![](https://img.youtube.com/vi/kx9tg0WAEKw/0.jpg)](https://youtu.be/kx9tg0WAEKw) |
+| Lava                  	| [![](https://img.youtube.com/vi/sIk8XEuiQyE/0.jpg)](https://youtu.be/sIk8XEuiQyE) |
 | LavaLampRainbow       	|                                        	|
 | LavaLampRainbowStripe 	| [![](https://img.youtube.com/vi/oXuwZY5xBgc/0.jpg)](https://youtube.com/shorts/oXuwZY5xBgc?feature=share) |
 | Ocean                 	|                                        	|
