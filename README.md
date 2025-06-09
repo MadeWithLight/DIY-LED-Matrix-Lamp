@@ -6,7 +6,6 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 |-----------------------	|----------------------------------------	|
 | Analogous             	| [![](https://img.youtube.com/vi/GkM_yxgYv2s/0.jpg)](https://youtu.be/GkM_yxgYv2s) |
 | Aurora                	| [![](https://img.youtube.com/vi/GK8URnTC9vc/0.jpg)](https://youtu.be/GK8URnTC9vc) |
-| BlackAndWhite         	|                                        	|
 | BPM                     | [![](https://img.youtube.com/vi/IH-Q_5ymRpk/0.jpg)](https://youtu.be/IH-Q_5ymRpk) |
 | Calbayo             	  | [![](https://img.youtube.com/vi/2_QlBTKidro/0.jpg)](https://youtu.be/2_QlBTKidro) |
 | Cloud                 	| [![](https://img.youtube.com/vi/ubzFZ8tgLI4/0.jpg)](https://youtu.be/ubzFZ8tgLI4) |
@@ -42,17 +41,16 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | LavaLampRainbowStripe 	| [![](https://img.youtube.com/vi/oXuwZY5xBgc/0.jpg)](https://youtube.com/shorts/oXuwZY5xBgc?feature=share) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	| [![](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://www.youtube.com/watch?v=PT6lvMPc_JI) |
-| Pride                 	| [![](https://img.youtube.com/vi/QllpjAun5tk/0.jpg)](https://youtube.com/shorts/QllpjAun5tk?feature=share) |
+| Party                 	| [![](https://img.youtube.com/vi/cm-rTXeq35o/0.jpg)](https://youtu.be/cm-rTXeq35o) |
+| Pride                 	| [![](https://img.youtube.com/vi/dWa1676GSik/0.jpg)](https://youtu.be/dWa1676GSik) |
 | Pulse                 	|                                        	|
 | Rainbow               	| [![](https://img.youtube.com/vi/NdaFswDQIU4/0.jpg)](https://youtu.be/NdaFswDQIU4) |
 | RainbowTwinkles       	| [![](https://img.youtube.com/vi/1jY9cqHB35g/0.jpg)](https://youtu.be/1jY9cqHB35g) |
 | RainbowWithGlitter    	|                                        	|
-| RampRGB               	| [![](https://img.youtube.com/vi/fwO2FN8sbOQ/0.jpg)](https://youtube.com/shorts/fwO2FN8sbOQ?feature=share) |
-| Rstcurv               	| [![](https://img.youtube.com/vi/_P6XzHIV-NA/0.jpg)](https://www.youtube.com/watch?v=_P6XzHIV-NA) |
+| RampRGB               	| [![](https://img.youtube.com/vi/SI3bJN-11fA/0.jpg)](https://youtu.be/SI3bJN-11fA) |
+| Rstcurv               	| [![](https://img.youtube.com/vi/NhjNlacqxmQ/0.jpg)](https://youtu.be/NhjNlacqxmQ) |
 | Shikon22              	| [![](https://img.youtube.com/vi/SxEsgq4D8ok/0.jpg)](https://youtu.be/SxEsgq4D8ok) |
 | Shikon23              	| [![](https://img.youtube.com/vi/LAta2GwrvJk/0.jpg)](https://youtu.be/LAta2GwrvJk) |
-| ShowSolidColor        	|                                        	|
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
 | Spectrum              	|                                        	|
