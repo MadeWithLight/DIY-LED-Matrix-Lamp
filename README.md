@@ -10,7 +10,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Calbayo             	  | [![](https://img.youtube.com/vi/2_QlBTKidro/0.jpg)](https://youtu.be/2_QlBTKidro) |
 | Cloud                 	| [![](https://img.youtube.com/vi/ubzFZ8tgLI4/0.jpg)](https://youtu.be/ubzFZ8tgLI4) |
 | CloudTwinkles           | [![](https://img.youtube.com/vi/x8yK0GT0e4U/0.jpg)](https://youtu.be/x8yK0GT0e4U) |
-| ColorCube             	| [![](https://img.youtube.com/vi/w2WDJhO8YmA/0.jpg)](https://youtube.com/shorts/w2WDJhO8YmA?feature=share) |
+| ColorCube             	| [![](https://img.youtube.com/vi/lIYUlpEx5MI/0.jpg)](https://youtu.be/lIYUlpEx5MI) |
 | ColorWaves            	| [![](https://img.youtube.com/vi/wLJo49-o8fk/0.jpg)](https://youtu.be/wLJo49-o8fk) |
 | Confetti                | [![](https://img.youtube.com/vi/dexPh66PtdY/0.jpg)](https://youtube.com/shorts/dexPh66PtdY?feature=share) |
 | CoralReef             	|                                        	|
@@ -39,8 +39,8 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Lava                  	| [![](https://img.youtube.com/vi/sIk8XEuiQyE/0.jpg)](https://youtu.be/sIk8XEuiQyE) |
 | LavaLampRainbow       	|                                        	|
 | LavaLampRainbowStripe 	| [![](https://img.youtube.com/vi/oXuwZY5xBgc/0.jpg)](https://youtube.com/shorts/oXuwZY5xBgc?feature=share) |
-| Ocean                 	|                                        	|
-| OceanBreeze           	|                                        	|
+| Ocean                 	| [![](https://img.youtube.com/vi/n92j4kISWlI/0.jpg)](https://youtu.be/n92j4kISWlI) |
+| OceanBreeze           	| [![](https://img.youtube.com/vi/pznT5ws7hNs/0.jpg)](https://youtu.be/pznT5ws7hNs) |
 | Party                 	| [![](https://img.youtube.com/vi/cm-rTXeq35o/0.jpg)](https://youtu.be/cm-rTXeq35o) |
 | Pride                 	| [![](https://img.youtube.com/vi/dWa1676GSik/0.jpg)](https://youtu.be/dWa1676GSik) |
 | Pulse                 	|                                        	|
@@ -51,11 +51,11 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Rstcurv               	| [![](https://img.youtube.com/vi/NhjNlacqxmQ/0.jpg)](https://youtu.be/NhjNlacqxmQ) |
 | Shikon22              	| [![](https://img.youtube.com/vi/SxEsgq4D8ok/0.jpg)](https://youtu.be/SxEsgq4D8ok) |
 | Shikon23              	| [![](https://img.youtube.com/vi/LAta2GwrvJk/0.jpg)](https://youtu.be/LAta2GwrvJk) |
-| Sinelon               	|                                        	|
-| SnowTwinkles          	|                                        	|
+| Sinelon               	| [![](https://img.youtube.com/vi/m19QTwVUmW8/0.jpg)](https://youtu.be/m19QTwVUmW8) |
+| SnowTwinkles          	| [![](https://img.youtube.com/vi/L7gm20Tj1lc/0.jpg)](https://youtu.be/L7gm20Tj1lc) |
 | Spectrum              	|                                        	|
-| Temperature           	| [![](https://img.youtube.com/vi/7qriRYJ1oCw/0.jpg)](https://youtube.com/shorts/7qriRYJ1oCw?feature=share) |
-| Vintage49             	| [![](https://img.youtube.com/vi/BeOxCL2CW7A/0.jpg)](https://youtube.com/shorts/BeOxCL2CW7A?feature=share) |
+| Temperature           	| [![](https://img.youtube.com/vi/doKbGnUyh-s/0.jpg)](https://youtu.be/doKbGnUyh-s) |
+| Vintage49             	| [![](https://img.youtube.com/vi/iHAYQAedETE/0.jpg)](https://youtu.be/iHAYQAedETE) |
 | Wave                  	|                                        	|
 
 
