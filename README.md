@@ -29,7 +29,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireNoise               | [![](https://img.youtube.com/vi/8HZHj-oy8hU/0.jpg)](https://www.youtube.com/watch?v=8HZHj-oy8hU) |
 | FireOrange            	| [![](https://img.youtube.com/vi/bZAbO2LFa9w/0.jpg)](https://youtu.be/bZAbO2LFa9w) |
 | FirePurple            	| [![](https://img.youtube.com/vi/WPIe7rbtJLo/0.jpg)](https://youtu.be/WPIe7rbtJLo) |
-| FireRed               	| [![](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
+| FireRed               	| [![](https://img.youtube.com/vi/gWVJ-uI9rgI/0.jpg)](https://youtu.be/gWVJ-uI9rgI) |
 | FireYellow              | [![](https://img.youtube.com/vi/6eIliuVcl6E/0.jpg)](https://youtu.be/6eIliuVcl6E) |
 | FireWhite             	| [![](https://img.youtube.com/vi/zvX-wUav1Z0/0.jpg)](https://youtu.be/zvX-wUav1Z0) |
 | Forest                	|                                        	|
