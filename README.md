@@ -12,7 +12,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | CloudTwinkles           | [![](https://img.youtube.com/vi/x8yK0GT0e4U/0.jpg)](https://youtu.be/x8yK0GT0e4U) |
 | ColorCube             	| [![](https://img.youtube.com/vi/lIYUlpEx5MI/0.jpg)](https://youtu.be/lIYUlpEx5MI) |
 | ColorWaves            	| [![](https://img.youtube.com/vi/wLJo49-o8fk/0.jpg)](https://youtu.be/wLJo49-o8fk) |
-| Confetti                | [![](https://img.youtube.com/vi/dexPh66PtdY/0.jpg)](https://youtube.com/shorts/dexPh66PtdY?feature=share) |
+| Confetti                | [![](https://img.youtube.com/vi/Dv5jHic06YM/0.jpg)](https://youtu.be/Dv5jHic06YM) |
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
 | DeepSea               	| [![](https://img.youtube.com/vi/nkcVD1npClE/0.jpg)](https://youtu.be/nkcVD1npClE) |
